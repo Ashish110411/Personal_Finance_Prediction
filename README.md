@@ -44,7 +44,7 @@ To apply classification and regression models on synthetic Indian household data
 ## How to Run
 
 1. Upload the `data.csv` file in a Jupyter or Google Colab environment.
-2. Open `wealth_predictor.ipynb`.
+2. Open `Personal_Finance_Management_and_Wealth_Prediction_using_Machine_Learning_for_Indian_Households.ipynb`.
 3. Execute all cells in order to preprocess data, train models, and visualize results.
 4. Modify model parameters or threshold values as needed.
 
