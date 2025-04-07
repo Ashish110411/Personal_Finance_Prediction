@@ -32,9 +32,6 @@ To apply classification and regression models on synthetic Indian household data
 - Models effectively distinguished between high savers and low savers across income brackets.
 - Classification and regression approaches complemented each other to give both binary decisions and numerical forecasts.
 
-## Project Structure
-├── data.csv # Input financial dataset ├── wealth_predictor.ipynb # Jupyter notebook with complete implementation ├── README.md # Project documentation └── LICENSE # MIT License
-
 ## Visualizations
 
 - Confusion matrices comparing classifier performance
